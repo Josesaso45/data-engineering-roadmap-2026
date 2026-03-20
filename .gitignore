@@ -125,6 +125,7 @@ celerybeat.pid
 
 # Environments
 .env
+venv
 .venv
 env/
 venv/
@@ -175,4 +176,9 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 
-yellow_tripdata_2024-01.**parquet
+
+nivel-0/venv/
+nivel-0/nyc-tlc-data/
+nivel-0/yellow_tripdata_2024-01.parquet
+nivel-0/yellow_tripdata_2024-01.csv
+nivel-0/.ipynb_checkpoints
